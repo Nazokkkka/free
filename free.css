@@ -1,0 +1,49 @@
+body{
+    background-color: color-mix(in srgb, lightpink percentage 30%, aquamarine 30% bisque 30%);
+    background-image: url(https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg?w=2000&t=st=1726514663~exp=1726515263~hmac=7f5e1924d2477f1261e5fb050ba5de64f8c1cf2c509139dd020c6cf836b99313);
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 600px;
+    height: 400px;
+    background-color: seashell;
+    display: flex;
+    border: 6px solid rgb(249, 184, 184);
+    border-radius: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+}
+h2{
+    font-size: 50px;
+}
+.get{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lightpink;
+}
+.upg{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.try{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: bisque;
+
+}
+.premium{
+    margin-left: 30px;
+}
+.free{
+    margin-right: 10px;
+}
+
